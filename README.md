@@ -18,7 +18,7 @@ Tested in version 1.15.2. Should work in any higher versions that do not update 
 - Play
 - Launch the CS4341 DigLog ALU map
 
-##Operation
+## Operation
 
 There are 3 control areas of note - the operations wall and the two walls for two 8-bit numbers. Flip the levers to switch bits. Lit is 1 and off is 0. Numbers are read left to right when facing the correct side of the wall.  
 
