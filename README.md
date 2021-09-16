@@ -9,7 +9,7 @@ Tested in version 1.15.2. Should work in any higher versions that do not update 
 ### Installation
 - Purchase Minecraft from Minecraft.net
 - Install the Launcher
-- Navigate to C:\Users\YourUsername\AppData\Roaming\\.minecraft\saves
+- Navigate to C:\Users\YourUsername\AppData\Roaming\\.minecraft\saves , or wherever your Minecraft save files are stored.
 - Paste the "CS4341 DigLog ALU" folder
 
 ### Launching
